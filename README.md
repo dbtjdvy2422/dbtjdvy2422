@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<p align='center'><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a></p>
 <!--
 **dbtjdvy2422/dbtjdvy2422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
