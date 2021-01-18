@@ -10,11 +10,22 @@
   </a>
 </p>
 
+### Tech
+
 <p align='center'><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/></a>
+
+
+
+Dillinger uses a number of open source projects to work properly:
+
+* [Java] - HTML enhanced for web apps!
+* [JavaScript] - awesome web-based text editor
+* [Spring Framework] - Markdown parser done right. Fast and easy to extend.
+* [Oracle] - duh
 
 </p>
 <!--
