@@ -18,8 +18,11 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/></a>
 
-![SeongPyo's github stats](https://github-readme-stats.vercel.app/api?username=dbtjdvy2422&show_icons=true&theme=radical)
 </p>
+
+### <p align='center'> Stats </p>
+<p align='center'>![SeongPyo's github stats](https://github-readme-stats.vercel.app/api?username=dbtjdvy2422&show_icons=true&theme=radical)</p>
+
 <!--
 **dbtjdvy2422/dbtjdvy2422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
