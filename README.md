@@ -3,7 +3,7 @@
 <!--
 **dbtjdvy2422/dbtjdvy2422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=seongpyo&fontSize=90)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
