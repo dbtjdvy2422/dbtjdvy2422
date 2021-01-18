@@ -22,8 +22,9 @@
 </p>
 
 ### <p align='center'>Stats</p>
-![SeongPyo's github stats](https://github-readme-stats.vercel.app/api?username=dbtjdvy2422&show_icons=true&theme=radical)
-
+<p align='center'>
+align![SeongPyo's github stats](https://github-readme-stats.vercel.app/api?username=dbtjdvy2422&show_icons=true&theme=radical)
+</p>
 <!--
 **dbtjdvy2422/dbtjdvy2422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
