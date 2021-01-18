@@ -9,6 +9,8 @@
     <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 <!--
 **dbtjdvy2422/dbtjdvy2422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
